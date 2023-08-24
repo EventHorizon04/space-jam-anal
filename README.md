@@ -1,5 +1,6 @@
 # space-jam-anal
 Predict basketball player efficiency ratings by using machine learning
+
 By using anonymized data from real and animated basketball players in the upcoming film Space Jam: A New Legacy, create a machine learning model to cleanse data to be used during games. Also explore bimodal data distributions by using Python.
 
 ## Learning objectives
